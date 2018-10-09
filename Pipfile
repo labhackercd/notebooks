@@ -9,6 +9,10 @@ name = "pypi"
 jupyter = "*"
 textblob = "*"
 lab-text-processing = "*"
+stop-words = "*"
+pystemmer = "*"
+nltk = "*"
+requests = "*"
 
 [requires]
 python_version = "3.6"
