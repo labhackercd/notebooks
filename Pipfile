@@ -14,6 +14,9 @@ pystemmer = "*"
 nltk = "*"
 requests = "*"
 numpy = "*"
+scikit-learn = "*"
+scipy = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.6"
